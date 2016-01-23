@@ -35,4 +35,5 @@ module.exports = {
   //   level: "silent"
   // }
 
+  port: process.env.PORT || 8888,
 };
